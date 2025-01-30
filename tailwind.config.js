@@ -12,7 +12,7 @@ export default {
         },
       backgroundImage:{
 
-        'banner': "url('./src/assets/banner.png')",
+        'banner': "url('/src/assets/banner.png')",
       }
     },
   },
